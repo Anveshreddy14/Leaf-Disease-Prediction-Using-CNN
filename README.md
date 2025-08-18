@@ -1,4 +1,4 @@
-# Leaf-Disease-Prediction-Using-CNN
+
 🌿 Leaf Disease Detection Using CNN
 📌 Project Overview
 
@@ -38,8 +38,13 @@ The dataset consists of plant leaf images belonging to multiple categories (heal
 
 Dataset/
 │── Train/
+
 │   ├── Healthy/
+
 │   ├── Diseased/
+
 │── Validation/
+
 │   ├── Healthy/
+
 │   ├── Diseased/
