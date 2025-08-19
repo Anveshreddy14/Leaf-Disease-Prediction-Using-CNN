@@ -34,6 +34,8 @@ OpenCV & PIL – Image preprocessing
 📊 Dataset
 
 The dataset consists of plant leaf images belonging to multiple categories (healthy & diseased).
+Link for the dataset:
+https://data.mendeley.com/datasets/tywbtsjrjv/1
 📂 Folder structure (example):
 
 Dataset/
