@@ -1,3 +1,4 @@
+We are planning to develop a website where farmer can now upload their leaf images directly in our website and get their leaf disease description along with their pesticide recommendation
 📌 How It Works
 
 Upload a plant leaf image.
@@ -11,3 +12,11 @@ Get instant results along with suggestions for supplements/fertilizers.
 
 Access preventive measures to avoid future plant health issues.
 ![Image](https://github.com/user-attachments/assets/aa9a5c41-16ae-4a09-a295-dcccf6325d0c)
+
+Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Backend/AI Model: Python, Flask (for disease detection)
+
+Machine Learning: Deep Learning / CNN for plant disease classification
