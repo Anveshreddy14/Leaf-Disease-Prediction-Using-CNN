@@ -2,17 +2,16 @@ We are planning to develop a website where farmer can now upload their leaf imag
 📌 How It Works
 
 Upload a plant leaf image.
-<img width="1920" height="3072" alt="Image" src="https://github.com/user-attachments/assets/e2698275-5586-4a59-b680-78325e484e49" />
+<img width="1897" height="909" alt="Image" src="https://github.com/user-attachments/assets/cb35437c-176c-4bf3-aee7-fcb6593f1a7e" />
 
 AI Engine processes the image and detects if the plant is diseased.
-<img width="1920" height="1577" alt="Image" src="https://github.com/user-attachments/assets/6e0d006b-06b6-4928-812d-2b1088d68577" />
+<img width="1899" height="911" alt="Image" src="https://github.com/user-attachments/assets/0c0ce010-bd67-46ad-be30-34924cd8f7ed" />
 
 Get instant results along with suggestions for supplements/fertilizers.
 <img width="1920" height="2477" alt="Image" src="https://github.com/user-attachments/assets/df7b6b36-7c5d-4c0a-861c-5406ca36ad06" />
 
 Access preventive measures to avoid future plant health issues.
-![Image](https://github.com/user-attachments/assets/aa9a5c41-16ae-4a09-a295-dcccf6325d0c)
-
+<img width="1900" height="890" alt="Image" src="https://github.com/user-attachments/assets/433e14a0-09d3-489e-89df-3c43e8ad20f9" />
 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
